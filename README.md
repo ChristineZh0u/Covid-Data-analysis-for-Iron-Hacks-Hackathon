@@ -1,5 +1,5 @@
 # Covid-Data-analysis-for-Iron-Hacks-Hackathon
-These are the methods I used to analyze data about covid-19 in the Tippecanoe county from 3/19 to 10/20 for a data science hackathon
+These are the methods I used to analyze data about covid-19 in the Tippecanoe county from 3/19 to 10/20 for a data science hackathon, below are some information about the hackathon.
 
 ## 1. Context and Goal
 COVID-19 has impacted the social and economic activity of faculty and students at Purdue. The Protect Purdue initiative has implemented a range of measures that keeps classrooms safe. However, the risk outside of the classroom, in bars, restaurants, churches, gyms, grocery stores, etc. remains. Thus, the "social concentration" of people in places in our region creates concerns. An increase in foot traffic at public places around Purdue, in Tippecanoe County, suggest the normalization of daily routines. At the same time, it also indicates an increase risk of virus spread due to social crowding in closed buildings. Indeed, recent students published in NATURE suggest that a high concentration of people inside closed buildings nurtures the spread of the virus.

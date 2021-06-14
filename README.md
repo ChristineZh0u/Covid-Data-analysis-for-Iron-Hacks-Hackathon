@@ -14,3 +14,6 @@ They ask you to predict the weekly foot traffic using historical data about soci
 Your major task is to build a statistical model using the historical movement, COVID-19 incident and policy intervention data collected from week 11 to week 43 to predict the foot traffic in week 44 for 1804 places of interest (POIs) in Tippecanoe County. In other words, you have to predict the raw_visit_countsof visitors at those POIs (We picked week 11 as a starting date, as this was the week when the State of Indiana reported the first COVID-19 case. However, you might not need all those historical data in your modeling).
 
 You can use a statistical model of your choice to make those predictions using a historical data that we will provide you with. Indeed, we ask you to explore a variety of models - from different kinds of regressions, time-series models, deep-learning models, network models, etc. there is no limit to your effort to experiment. Indeed, we want to see a VARIETY of models being used.
+
+## Report
+Check out https://lnkd.in/eXJaBn2

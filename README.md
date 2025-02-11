@@ -16,4 +16,4 @@ Your major task is to build a statistical model using the historical movement, C
 You can use a statistical model of your choice to make those predictions using a historical data that we will provide you with. Indeed, we ask you to explore a variety of models - from different kinds of regressions, time-series models, deep-learning models, network models, etc. there is no limit to your effort to experiment. Indeed, we want to see a VARIETY of models being used.
 
 ## Report
-Check out https://lnkd.in/eXJaBn2
+Check out https://sway.cloud.microsoft/ZQxclCmOXnT0CO4T?ref=Link
